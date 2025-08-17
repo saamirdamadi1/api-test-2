@@ -14,7 +14,7 @@
       <div class="w-full h-auto">
         <h4 class="mt-6 text-center">${r.cat}</h4>
         <a href="https://bpm.shaparak.ir/pgwchannel/startpay.mellat" class="rounded-2xl mx-auto w-[50px] h-[30px] flex justify-center items-center mt-3 bg-amber-200">
-        by
+        buy
         </a>
       </div>
     </div>
